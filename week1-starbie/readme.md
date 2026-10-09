@@ -12,4 +12,11 @@ Hackatime is the open-source Wakatime to track how long you spend productively o
 ```
 curl -fsSL https://raw.githubusercontent.com/hackclub/hackatime-setup/refs/heads/main/install.sh | bash -s -- 18b4fb88-612a-4661-9f48-94d667e80b66
 ```
-> - Quick setup
+- Quick setup
+
+#### Install care package materials
+> The .sym files are symbol libraries, while the .pretty folder contains the footprint libraries.
+
+symbol libraries = collection of premade graphical components, assets
+footprint libraries = collection of 3d models + schematic assets... for PCB design
+
