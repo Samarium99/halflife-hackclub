@@ -15,8 +15,9 @@ curl -fsSL https://raw.githubusercontent.com/hackclub/hackatime-setup/refs/heads
 - Quick setup
 
 #### Install care package materials
-> The .sym files are symbol libraries, while the .pretty folder contains the footprint libraries.
+- `.sym` files = symbol libraries = collection of premade graphical components, assets
+- `.pretty` folder = footprint libraries = collection of 3d models + schematic assets... for PCB design
 
-symbol libraries = collection of premade graphical components, assets
-footprint libraries = collection of 3d models + schematic assets... for PCB design
-
+#### Lapse
+- create [new session](https://lapse.hackclub.com/timelapse/create) on Lapse
+- install [lookout](https://lookout.hackclub.com/) to record desktop
