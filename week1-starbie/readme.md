@@ -9,6 +9,7 @@ python3 -m venv ~/hack_club_venv
 ```
 #### Installed hackatime
 Hackatime is the open-source Wakatime to track how long you spend productively on text editors VSCodium, XCode, Terminal, etc.
+Also installed [add on](https://github.com/hackclub/kicad-wakatime) to track KiCad changes. 
 ```
 curl -fsSL https://raw.githubusercontent.com/hackclub/hackatime-setup/refs/heads/main/install.sh | bash -s -- 18b4fb88-612a-4661-9f48-94d667e80b66
 ```
