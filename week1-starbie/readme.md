@@ -17,7 +17,9 @@ curl -fsSL https://raw.githubusercontent.com/hackclub/hackatime-setup/refs/heads
 #### Install care package materials
 - `.sym` files = symbol libraries = collection of premade graphical components, assets
 - `.pretty` folder = footprint libraries = collection of 3d models + schematic assets... for PCB design
+- moved libraries to a permanent location in my Documents folder for future use
 
 #### Lapse
 - create [new session](https://lapse.hackclub.com/timelapse/create) on Lapse
 - install [lookout](https://lookout.hackclub.com/) to record desktop
+(will not be using Lapse for now)
