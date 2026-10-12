@@ -15,7 +15,7 @@
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4XpDi6KgRsAgN4HVQ38NjMDRu-EWrpBIvp_R-nBuHqoBhEGvG3D) | microcontroller activities, Wi-Fi and BLE wireless connectivities | 1 | $4.99 | $4.99 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4XpDi6KgRsAgN4HVQ38NjMDRu-EWrpBIvp_R-nBuHqoBhEGvG3D) |
 | [DHT11 Temperature Humidity Sensor Module](https://shillehtek.com/products/shillehtek-dht11-with-cables?srsltid=AU7gw4XWudgVlz2YDrk7k-yMzc6ZbiTgKo0ZXVlPJtsMye9iGQ-Tk0n0) | senses/measures ambient temp/humidity | 1 | $6.00 | $6.00 | [Shillehtek](https://shillehtek.com/products/shillehtek-dht11-with-cables?srsltid=AU7gw4XWudgVlz2YDrk7k-yMzc6ZbiTgKo0ZXVlPJtsMye9iGQ-Tk0n0) |
 | **Parts subtotal** | — | — | — | **$10.99** | — |
-| **Tax & shipping** | — | — | — | **$6.20** | — |
-| **Total** | — | — | — | **$17.19** | — |
+| **Tax & shipping** | — | — | — | **$12.45** | — |
+| **Total** | — | — | — | **$23.44** | — |
 
-$12.81 left of the tier's funding.
+$6.56 left of the tier's funding.
