@@ -17,7 +17,7 @@
 | [Screen](https://www.amazon.com/ELEGOO-Display-Compact-Self-Luminous-Projects/dp/B0D2RMQQHR/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_1_3/142-0564016-2261251?pd_rd_w=EcxaW&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=GQ32BED1YM7DYAPC7EC4&pd_rd_wg=0qas1&pd_rd_r=bf78b406-64ca-4ce2-b907-ac825a11264b&pd_rd_i=B0D2RMQQHR&th=1) | to display (x3) | 1 | $10.00 | $10.00 | [Amazon ELEGOO](https://www.amazon.com/ELEGOO-Display-Compact-Self-Luminous-Projects/dp/B0D2RMQQHR/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_1_3/142-0564016-2261251?pd_rd_w=EcxaW&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=GQ32BED1YM7DYAPC7EC4&pd_rd_wg=0qas1&pd_rd_r=bf78b406-64ca-4ce2-b907-ac825a11264b&pd_rd_i=B0D2RMQQHR&th=1) |
 | [MPU6050 3 Axis Accelerometer Gyroscope Module](https://www.amazon.com/EC-Buying-Accelerometer-Gyroscope-Module16-Bit/dp/B0B3D6D1KD/ref=sims_dp_d_dex_ai_rank_model_1_d_v1_d_sccl_1_2/142-0564016-2261251?pd_rd_w=q7buU&content-id=amzn1.sym.bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_p=bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_r=1AY1FH6CJWC9DBS2G0SR&pd_rd_wg=gJNeV&pd_rd_r=c62269aa-43e0-48a4-9cdc-ed8e4e7608b0&pd_rd_i=B0B3D6D1KD&psc=1) | Detect motion and position | 1 | $9.00 | $9.00 | [Amazon](https://www.amazon.com/EC-Buying-Accelerometer-Gyroscope-Module16-Bit/dp/B0B3D6D1KD/ref=sims_dp_d_dex_ai_rank_model_1_d_v1_d_sccl_1_2/142-0564016-2261251?pd_rd_w=q7buU&content-id=amzn1.sym.bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_p=bb4a0aac-c2b4-4b4b-a0c8-9aa89b28dce3&pf_rd_r=1AY1FH6CJWC9DBS2G0SR&pd_rd_wg=gJNeV&pd_rd_r=c62269aa-43e0-48a4-9cdc-ed8e4e7608b0&pd_rd_i=B0B3D6D1KD&psc=1) |
 | **Parts subtotal** | — | — | — | **$29.99** | — |
-| **Tax & shipping** | — | — | — | **$6.20** | — |
-| **Total** | — | — | — | **$36.19** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$29.99** | — |
 
-**$6.19 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.01 left of the tier's funding.
