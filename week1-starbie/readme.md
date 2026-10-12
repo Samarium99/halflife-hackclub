@@ -34,6 +34,7 @@ solved with entering the following into the terminal...
 Use the below command to identify additional .kicad_sch files:
 ```
 find ~/path/to/kicad/files -name "*.kicad_sch"
+rm -rf ../biebie/.history
 ```
 kicad-wakatime returned error due to the file `.history/file.kicad_sch`
 
