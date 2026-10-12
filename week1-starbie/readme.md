@@ -40,3 +40,4 @@ kicad-wakatime returned error due to the file `.history/file.kicad_sch`
 ## Notes
 ####
 [useful guide](https://www.youtube.com/watch?v=f_qYrs3OZBM) on creating boundaries in KiCad Editor
+- make sure your boundary is drawn on the Edge.Cuts Layer (configure in Properties)
